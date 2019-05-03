@@ -1,0 +1,17 @@
+Classe Produto:
+   ATRIBUTOS
+	-Preço
+	-Quantidade em estoque
+   MÉTODOS
+	-Modificar preço
+	-Adicionar ao estoque
+	-Remover do estoque
+   
+Classe Pedido:
+   ATRIBUTOS
+	-Produto
+	-Quantidade de itens comprados
+        -Tipo de pagamento
+   MÉTODOS
+	-Pagar pedido
+	
